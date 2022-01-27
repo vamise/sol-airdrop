@@ -1,4 +1,4 @@
-# Ghetto SolAir 🪂
+# SPL Token Airdrop 🪂
 
 A guerilla tactix command lined based airdrop tool for Solana with no polish and max functionality.
 
