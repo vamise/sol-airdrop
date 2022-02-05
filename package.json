@@ -8,9 +8,9 @@
     "csvToJSON": "npx run-func index.js csvToJSON raw.csv",
     "validateKeys": "npx run-func index.js removeOffCurveKeys",
     "removeDupes": "npx run-func index.js removeDupesByKey address",
-    "bulkToken": "npx run-func index.js bulkTokenCSV 1 nftfqbKZbFnb2uBdKMgubKv89dpzZdTUd1r4SPF4YLw",
-    "test:airdrop": "npx run-func airdrop.js exeAirdrop 0.00001 nftfqbKZbFnb2uBdKMgubKv89dpzZdTUd1r4SPF4YLw ./data/test.json",
-    "danger:airdrop": "npx run-func airdrop.js exeAirdrop 1 nftfqbKZbFnb2uBdKMgubKv89dpzZdTUd1r4SPF4YLw ./data/curved.json"
+    "bulkTokenCSV": "npx run-func index.js bulkTokenCSV 1 5tJrRSjM1hMp3z5tzmp2XtsQFm2teoBoedM8pbTxVjr6",
+    "test:airdrop": "npx run-func airdrop.js exeAirdrop 1 5tJrRSjM1hMp3z5tzmp2XtsQFm2teoBoedM8pbTxVjr6 ./data/test.json",
+    "danger:airdrop": "npx run-func airdrop.js exeAirdrop 1 5tJrRSjM1hMp3z5tzmp2XtsQFm2teoBoedM8pbTxVjr6 ./data/curved.json"
   },
   "author": "",
   "license": "MIT",
